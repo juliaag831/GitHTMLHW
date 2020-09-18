@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="" />
+    <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="Initial Commit: Set up Homepage with About and Project link" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,12 +39,24 @@
       <updated>1600448829695</updated>
       <workItem from="1600448830817" duration="598000" />
       <workItem from="1600465170435" duration="2081000" />
-      <workItem from="1600469443005" duration="582000" />
+      <workItem from="1600469443005" duration="767000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit: Set up Homepage with About and Project link">
+      <created>1600470107540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600470107540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit: Set up Homepage with About and Project link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Set up Homepage with About and Project link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="514" y="158" key="#Deployment" timestamp="1600468777846">
@@ -61,6 +73,15 @@
       <screen x="0" y="23" width="1680" height="939" />
     </state>
     <state x="608" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.939@0.23.1680.939" timestamp="1600466180113" />
+    <state x="504" y="230" key="Vcs.Push.Dialog.v2" timestamp="1600470167835">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state x="504" y="230" key="Vcs.Push.Dialog.v2/0.23.1680.936@0.23.1680.936" timestamp="1600470167835" />
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600470119892" />
+    <state x="662" y="392" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600470059525">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="662" y="392" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1680.939@0.23.1680.939" timestamp="1600470059525" />
     <state x="495" y="228" width="670" height="676" key="search.everywhere.popup" timestamp="1600468784613">
       <screen x="0" y="23" width="1680" height="942" />
     </state>
