@@ -27,9 +27,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="Initial Commit: Set up Homepage with About and Project link">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="Adjust Project page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <updated>1600448829695</updated>
       <workItem from="1600448830817" duration="598000" />
       <workItem from="1600465170435" duration="2081000" />
-      <workItem from="1600469443005" duration="3017000" />
+      <workItem from="1600469443005" duration="3335000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Set up Homepage with About and Project link">
       <created>1600470107540</created>
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600472899323</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adjust Project page">
+      <created>1600473759433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600473759433</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +125,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit: Set up Homepage with About and Project link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Set up Homepage with About and Project link" />
+    <MESSAGE value="Adjust Project page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust Project page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="514" y="158" key="#Deployment" timestamp="1600473094478">
@@ -145,11 +151,11 @@
       <screen x="0" y="23" width="1680" height="936" />
     </state>
     <state x="168" y="106" key="MergeDialog/0.23.1680.936@0.23.1680.936" timestamp="1600471002813" />
-    <state x="504" y="231" key="Vcs.Push.Dialog.v2" timestamp="1600473323118">
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2" timestamp="1600473764650">
       <screen x="0" y="23" width="1680" height="939" />
     </state>
     <state x="504" y="230" key="Vcs.Push.Dialog.v2/0.23.1680.936@0.23.1680.936" timestamp="1600471448878" />
-    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600473323118" />
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600473764650" />
     <state x="504" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.942@0.23.1680.942" timestamp="1600472546516" />
     <state x="632" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600471915886">
       <screen x="0" y="23" width="1680" height="939" />
