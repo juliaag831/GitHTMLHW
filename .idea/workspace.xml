@@ -3,6 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="Initial Commit: Set up Homepage with About and Project link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -15,8 +38,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +58,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +71,7 @@
       <updated>1600448829695</updated>
       <workItem from="1600448830817" duration="598000" />
       <workItem from="1600465170435" duration="2081000" />
-      <workItem from="1600469443005" duration="2432000" />
+      <workItem from="1600469443005" duration="3017000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Set up Homepage with About and Project link">
       <created>1600470107540</created>
@@ -70,21 +94,39 @@
       <option name="project" value="LOCAL" />
       <updated>1600471224426</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit: Set up Homepage with About and Project link">
+      <created>1600472899323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600472899323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit: Set up Homepage with About and Project link" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Set up Homepage with About and Project link" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="158" key="#Deployment" timestamp="1600468777846">
-      <screen x="0" y="23" width="1680" height="942" />
+    <state x="514" y="158" key="#Deployment" timestamp="1600473094478">
+      <screen x="0" y="23" width="1680" height="939" />
     </state>
-    <state x="514" y="158" key="#Deployment/0.23.1680.939@0.23.1680.939" timestamp="1600466145096" />
+    <state x="514" y="158" key="#Deployment/0.23.1680.939@0.23.1680.939" timestamp="1600473094478" />
     <state x="514" y="158" key="#Deployment/0.23.1680.942@0.23.1680.942" timestamp="1600468777846" />
     <state x="498" y="145" key="#SSH_Configurations" timestamp="1600468674857">
       <screen x="0" y="23" width="1680" height="942" />
@@ -103,11 +145,11 @@
       <screen x="0" y="23" width="1680" height="936" />
     </state>
     <state x="168" y="106" key="MergeDialog/0.23.1680.936@0.23.1680.936" timestamp="1600471002813" />
-    <state x="504" y="232" key="Vcs.Push.Dialog.v2" timestamp="1600472546516">
-      <screen x="0" y="23" width="1680" height="942" />
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2" timestamp="1600473323118">
+      <screen x="0" y="23" width="1680" height="939" />
     </state>
     <state x="504" y="230" key="Vcs.Push.Dialog.v2/0.23.1680.936@0.23.1680.936" timestamp="1600471448878" />
-    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600472087311" />
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600473323118" />
     <state x="504" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.942@0.23.1680.942" timestamp="1600472546516" />
     <state x="632" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600471915886">
       <screen x="0" y="23" width="1680" height="939" />
