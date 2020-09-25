@@ -27,11 +27,26 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="Adjust Project page" />
+    <list default="true" id="3531b500-9b20-4dac-aec2-4416a22ab45b" name="Default Changelist" comment="Adjust Link to Index Page">
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -50,12 +65,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,7 +91,8 @@
       <updated>1600448829695</updated>
       <workItem from="1600448830817" duration="598000" />
       <workItem from="1600465170435" duration="2081000" />
-      <workItem from="1600469443005" duration="3335000" />
+      <workItem from="1600469443005" duration="3643000" />
+      <workItem from="1601010533708" duration="4733000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Set up Homepage with About and Project link">
       <created>1600470107540</created>
@@ -106,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600473759433</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adjust Index Page">
+      <created>1600473867504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600473867504</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,11 +152,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit: Set up Homepage with About and Project link" />
     <MESSAGE value="Adjust Project page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust Project page" />
+    <MESSAGE value="Adjust Index Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust Index Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="514" y="158" key="#Deployment" timestamp="1600473094478">
@@ -151,11 +183,11 @@
       <screen x="0" y="23" width="1680" height="936" />
     </state>
     <state x="168" y="106" key="MergeDialog/0.23.1680.936@0.23.1680.936" timestamp="1600471002813" />
-    <state x="504" y="231" key="Vcs.Push.Dialog.v2" timestamp="1600473764650">
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2" timestamp="1600473899892">
       <screen x="0" y="23" width="1680" height="939" />
     </state>
     <state x="504" y="230" key="Vcs.Push.Dialog.v2/0.23.1680.936@0.23.1680.936" timestamp="1600471448878" />
-    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600473764650" />
+    <state x="504" y="231" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1600473899892" />
     <state x="504" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.942@0.23.1680.942" timestamp="1600472546516" />
     <state x="632" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600471915886">
       <screen x="0" y="23" width="1680" height="939" />
